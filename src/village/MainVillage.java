@@ -1,5 +1,7 @@
 package village;
 
+import personnages.Gaulois;
+
 public class MainVillage {
 	public static void main(String[] args) {
 

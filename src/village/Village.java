@@ -1,5 +1,7 @@
 package village;
 
+import personnages.Gaulois;
+
 public class Village {
 
 	private int nbVillageois = 0;
